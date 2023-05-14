@@ -1,2 +1,9 @@
 # Google App Engine generated folder
 appengine-generated/
+ api/
+ ?.bak
+ .env
+ .config.json
+ **/public/*.log
+*.bin
+!a.bin
